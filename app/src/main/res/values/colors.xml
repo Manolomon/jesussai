@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app/src/main/res/values/colors.xml -->
+    <color name="darkColorPrimary">#d32f2f</color>
+    <color name="darkColorPrimaryDark">#9a0007</color>
+    <color name="darkColorAccent">#ffb300</color>
+</resources>
