@@ -21,7 +21,6 @@ class GaleriaActivity : AppCompatActivity() {
         arrayListImage.add(R.drawable.paloma)
         arrayListImage.add(R.drawable.catrinas)
 
-
         val name = arrayOf("pez.jpeg", "paloma.jpg", "catrinas.jpg")
 
         val customAdapter = CustomAdapter(this@GaleriaActivity, arrayListImage, name)

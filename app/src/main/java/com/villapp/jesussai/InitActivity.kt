@@ -21,9 +21,9 @@ class InitActivity : AppCompatActivity() {
     fun animar(v: View?) {
         val intent = Intent(this, GaleriaActivity::class.java)
         // To pass any data to next activity
-    // start your next activity
-    startActivity(intent)
-}
+        // start your next activity
+        startActivity(intent)
+    }
 
     fun irTienda(v: View?) {
         val url = "https://www.jesussai.com/productos"
